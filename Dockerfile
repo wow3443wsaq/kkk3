@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="b4672aed-8f07-4710-96d4-b857c7ac0d0d"
-ARG CADDYIndexPage="https://github.com/happyevero/Html/raw/main/GoidFood-html.zip"
+ARG AUUID="f9f6bae3-c2f6-484e-abd8-ef1cfa550649"
+ARG CADDYIndexPage="https://codeload.github.com/PavelDoGreat/WebGL-Fluid-Simulation/zip/refs/heads/master"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8000
 
